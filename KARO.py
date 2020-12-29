@@ -1,10 +1,10 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By Jam Shahrukh
-#Editing My Script Will Not Make You A Coder
-#Facebook : JAM Shahrukh
-#Whatsapp : ++971528752764
-#Pakistan Cyber Expert
+#Codded By SHAFO_PRGRAMAR
+#GAR TO DAST KARE AM SCRIPTA KAY TO CODER NE
+#SNAPCHAT : k_bradoste20
+#INSTAGRAM : https://instagram.com/karo_bradoste1?igshid=gvtw0zoqkk1i
+#SHAFO_IRAQE UP
 #Alone Coder 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -53,18 +53,18 @@ logo ="""
 
 \x1b[1;96m░░░░░██╗░█████╗░███╗░░░███╗
 \x1b[1;96m░░░░░██║██╔══██╗████╗░████║
-\x1b[1;96m░░░░░██║███████║██╔████╔██║
+\x1b[1;96m░░░░╔██║
 \x1b[1;96m██╗░░██║██╔══██║██║╚██╔╝██║
-\x1b[1;96m╚█████╔╝██║░░██║██║░╚═╝░██║
+\x1b[1;96m╚██║
 \x1b[1;96m░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : JAM SHAHRUKH TECHNICAL
-\x1b[1;94m➣  Facebook : JAM SHAHRUKH
-\x1b[1;94m➣  Note     : Dont ReEdit It 
-\x1b[1;94m➣  Github   : https://github.com/Jam302/King
-\x1b[1;94m➣  Whatsapp : +971528752764
-\x1b[1;94m➣  Note     : Having Problem? Contact Me On Whatsapp.
-\x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;94m➣  DRUSTKAR : SHFO_IRAQE
+\x1b[1;94m➣  SNAPCHAT : k_bradoste20
+\x1b[1;94m➣  Note     : HARGIZ KOL MADA_SHAFO
+\x1b[1;94m➣  SNAP     : Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308 
+\x1b[1;94m➣  viber    :hazm lenya danem 
+\x1b[1;94m➣  Note     : aw du snapa add ka fere hak dabe
+\x1b[1;94m➣   : This Is For Educational Purpose Only.
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -83,8 +83,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "jam"
-CorrectPassword = "jam"
+CorrectUsername = "SHAFO"
+CorrectPassword = "PROGRAMAR"
 
 loop = 'true'
 while (loop == 'true'):
