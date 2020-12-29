@@ -53,10 +53,10 @@ logo ="""
 
 \x1b[1;96m░░░░░██╗░█████╗░███╗░░░███╗
 \x1b[1;96m░░░░░██║██╔══██╗████╗░████║
-\x1b[1;96m░░░░╔██║
+\x1b[1;96m░░
 \x1b[1;96m██╗░░██║██╔══██║██║╚██╔╝██║
-\x1b[1;96m╚██║
-\x1b[1;96m░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
+\x1b[1;96m╚█
+\x1b[1;96m░
 \x1b[1;97m--------------------------------------------------------------
 \x1b[1;94m➣  DRUSTKAR : SHFO_IRAQE
 \x1b[1;94m➣  SNAPCHAT : k_bradoste20
@@ -97,10 +97,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;97mACCESS DENIED"
-            os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+            os.system('xdg-open Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308')
     else:
         print "\033[1;97mACCESS DENIED"
-        os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+        os.system('xdg-open Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308')
 def login():
 	os.system('clear')
 	try:
