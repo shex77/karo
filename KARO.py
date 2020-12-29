@@ -97,10 +97,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;97mACCESS DENIED"
-            os.system('xdg-open Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308')
+            os.system('xdg-open https://www.snapchat.com/add/br35308')
     else:
         print "\033[1;97mACCESS DENIED"
-        os.system('xdg-open Add me on Snapchat! Username: br35308 https://www.snapchat.com/add/br35308')
+        os.system('xdg-open  https://www.snapchat.com/add/br35308')
 def login():
 	os.system('clear')
 	try:
