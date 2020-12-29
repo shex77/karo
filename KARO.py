@@ -111,8 +111,8 @@ def login():
 		print logo
      	
 		
-		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
-		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mJam King Of Facebook' ) 
+		jalan(' \033[1;97m   ✧ \033[1;97magadarba: \033[1;97mFACEBOOK NWE DAXL KA BA DURBE LA SUTAN' )
+		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mSHAFO King Of Facebook' ) 
 		
 		print('	' )
 		print('      \033[1;97m      ✧ \x1b[1;97mLogin With Facebook\x1b[1;97m ✧')
